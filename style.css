@@ -47,6 +47,10 @@ body{
 	.subheader {
 		font-size: small;
 	}
+
+	iframe {
+		width: auto;
+	}
   }
 
   @media only screen and (max-width: 300px) {
