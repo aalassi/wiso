@@ -8,9 +8,19 @@ body{
 	font-family: "Montserrat", sans-serif !important;
 }
 
+/*
 .w3-button {
 	margin-right: 2rem !important;
 	
+}
+*/
+
+.w3-opacity {
+	opacity: 1 !important;
+}
+
+.fa-remove {
+	margin-right: 2rem !important;
 }
 
 .headerstyle {
@@ -21,7 +31,7 @@ body{
     font-weight: 400;
     padding: 0.25em 0.2em 0.25em 0.2em;
     font-size: 1em;
-    letter-spacing: 0.05em;
+    /* letter-spacing: 0.05em; */
     display: inline-block;
     vertical-align: middle;
 }
