@@ -180,6 +180,28 @@ function myFunction() {
             },
 
             {
+              question: "Ab wieviel Mitarbeitern braucht ein Betrieb einen Sicherheitsbeauftragten?",
+              answers: {
+                a: "Über 5 Mitarbeiter.",
+                b: "Über 7 Mitarbeiter.",
+                c: "Über 10 Mitarbeiter.",
+                d: "Über 20 Mitarbeiter."
+              },
+              correctAnswer: "d"
+            },
+
+            {
+              question: "Wieviele Ersthelfer braucht man in einem Unternehmen von 2-20 Mitarbeitern?",
+              answers: {
+                a: "0",
+                b: "1"
+           
+              },
+              correctAnswer: "b"
+            },
+
+
+            {
               question: "Sicherheitsbeauftragte müssen sich ausdrücklich und nachweislich bereit erklären, die Beauftragung und Verpflichtung des Amtes zu übernehmen.",
               answers: {
                 a: "richtig",
