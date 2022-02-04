@@ -36,6 +36,15 @@ body{
     vertical-align: middle;
 }
 
+@media only screen and (max-width: 600px) {
+	.headerstyle {
+		font-size: x-large;
+	}
+	.subheader {
+		font-size: small;
+	}
+  }
+
 .boxheader {
 	display: inline-grid;
 	vertical-align: super;
