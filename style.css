@@ -140,6 +140,13 @@ img {margin-bottom: -7px}
 }
 
 
+footer {
+	background-color: black;
+    color: #fff;
+	padding: 10px;
+    text-align: center;
+}
+
 
 /* style iframe */
 /*
