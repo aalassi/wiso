@@ -99,7 +99,7 @@ body{
 	border-radius: 3px;
 	padding: 20px;
 	cursor: pointer;
-	margin-bottom: 20px;
+
 	border-radius: 6px;
     font-weight: 600;
 	
@@ -113,6 +113,7 @@ body{
 
 .buttonbox {
 	text-align: center;
+	margin-bottom: 20px;
 }
 
 body,h1 {font-family: "Montserrat", sans-serif}
@@ -125,6 +126,11 @@ img {margin-bottom: -7px}
     padding: 2rem;
     font-weight: bolder;
     font-size: xx-large;
+}
+
+.ergb {
+	font-size: x-large;
+    text-align: center;
 }
 
 
