@@ -179,6 +179,36 @@ function myFunction() {
               correctAnswer: "d"
             },
 
+            {
+              question: "Sicherheitsbeauftragte müssen sich ausdrücklich und nachweislich bereit erklären, die Beauftragung und Verpflichtung des Amtes zu übernehmen.",
+              answers: {
+                a: "richtig",
+                b: "falsch"
+              },
+              correctAnswer: "a"
+            },
+
+            {
+              question: "Sicherheitsbeauftragte werden von den Unfallversicherungen zur Rechenschaft gezogen, wenn das Unternehmen den Unfallverhütungsvorschriften nicht nachkommt.",
+              answers: {
+                a: "richtig",
+                b: "falsch"
+              },
+              correctAnswer: "b"
+            },
+
+            {
+              question: "Sicherheitsbeauftragte sind damit beauftragt, die anderen Mitarbeiter zur Sicherheit am Arbeitsplatz zu schulen, was eine wichtige Voraussetzung zur Vorbeugung von Unfällen darstellt.",
+              answers: {
+                a: "richtig",
+                b: "falsch"
+              },
+              correctAnswer: "a"
+            },
+
+
+
+
     ];
   
     buildQuiz();
