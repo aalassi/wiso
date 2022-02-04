@@ -90,7 +90,7 @@ function myFunction() {
       {
         question: "Wo muss der Ausbildungsvertrag zur Eintragung eingereicht werden ?",
         answers: {
-          a: "beim der Berufschule",
+          a: "bei der Berufschule",
           b: "bei der Agentur für Arbeit",
           c: "beim WBS",
           d: "bei der Handwerkskammer"
